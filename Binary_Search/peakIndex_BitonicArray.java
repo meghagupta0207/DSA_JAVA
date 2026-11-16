@@ -1,3 +1,4 @@
+package Binary_Search;
 public class peakIndex_BitonicArray {
 
     public static void main(String[] args){

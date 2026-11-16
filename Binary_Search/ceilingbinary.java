@@ -1,3 +1,4 @@
+package Binary_Search;
 public class ceilingbinary {
     public static void main (String args []){
             int[] num = {-11,-40,-55,10,20,28,30,40};

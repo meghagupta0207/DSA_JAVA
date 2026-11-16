@@ -1,3 +1,4 @@
+package Binary_Search;
 public class flooorbinary {
 
     public static void main (String args []){

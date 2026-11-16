@@ -1,3 +1,4 @@
+package Binary_Search;
 public class infiniteSortedArray {
 
     public static void main(String[] args){
